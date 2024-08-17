@@ -1,0 +1,11 @@
+ProductGroupID,GroupName,Description,ParentGroupID,Category,CreatedDate,LastUpdatedDate,IsActive,GroupCode,Notes,ImageURL
+1,Smartphones,Group for Smartphones,,Electronics,2022-01-31,2023-01-31,True,PGC001,Notes for Smartphones,http://example.com/smartphones.jpg
+2,Laptops,Group for Laptops,,Electronics,2022-02-28,2023-02-28,True,PGC002,Notes for Laptops,http://example.com/laptops.jpg
+3,Tablets,Group for Tablets,,Electronics,2022-03-31,2023-03-31,True,PGC003,Notes for Tablets,http://example.com/tablets.jpg
+4,Headphones,Group for Headphones,,Electronics,2022-04-30,2023-04-30,True,PGC004,Notes for Headphones,http://example.com/headphones.jpg
+5,Cameras,Group for Cameras,,Electronics,2022-05-31,2023-05-31,True,PGC005,Notes for Cameras,http://example.com/cameras.jpg
+6,Smartwatches,Group for Smartwatches,,Electronics,2022-06-30,2023-06-30,True,PGC006,Notes for Smartwatches,http://example.com/smartwatches.jpg
+7,Speakers,Group for Speakers,,Electronics,2022-07-31,2023-07-31,True,PGC007,Notes for Speakers,http://example.com/speakers.jpg
+8,Printers,Group for Printers,,Electronics,2022-08-31,2023-08-31,True,PGC008,Notes for Printers,http://example.com/printers.jpg
+9,Monitors,Group for Monitors,,Electronics,2022-09-30,2023-09-30,True,PGC009,Notes for Monitors,http://example.com/monitors.jpg
+10,Game Consoles,Group for Game Consoles,,Electronics,2022-10-31,2023-10-31,True,PGC010,Notes for Game Consoles,http://example.com/game_consoles.jpg

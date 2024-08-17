@@ -1,0 +1,51 @@
+ProductID,ProductName,ProductGroupID,Description,Price,StockQuantity,SupplierID,WarrantyPeriod,Weight,Dimensions,ManufactureDate,ExpirationDate
+1,Smartphone,1,High-end smartphone with latest features,800,100,1,1 year,0.2,6x3x0.3,2023-01-15,2025-01-15
+2,Laptop,2,Powerful laptop for professional use,1200,50,2,2 years,2.5,14x10x0.8,2023-02-20,2026-02-20
+3,Headphones,3,Noise-canceling headphones with excellent sound quality,200,200,3,1 year,0.4,8x6x2,2023-03-10,2025-03-10
+4,Smartwatch,1,Fitness-oriented smartwatch with health tracking,300,150,1,1 year,0.1,2x2x0.5,2023-04-05,2025-04-05
+5,Tablet,2,Lightweight tablet with large screen,500,80,2,1 year,1.0,10x8x0.5,2023-05-12,2025-05-12
+6,Speaker,4,Bluetooth speaker with deep bass,100,300,4,1 year,1.5,6x6x4,2023-06-18,2025-06-18
+7,Camera,5,Professional DSLR camera with interchangeable lenses,1500,30,5,3 years,2.0,8x6x4,2023-07-22,2026-07-22
+8,Monitor,2,High-resolution monitor for gaming and design,700,100,2,2 years,5.0,20x12x1,2023-08-30,2026-08-30
+9,Keyboard,6,Mechanical keyboard with RGB lighting,150,150,6,1 year,1.2,18x6x1,2023-09-14,2025-09-14
+10,Mouse,6,Wireless ergonomic mouse,50,200,6,1 year,0.1,4x3x1,2023-10-25,2025-10-25
+11,Printer,7,All-in-one printer with scanning and copying functions,300,50,7,2 years,10.0,18x16x8,2023-11-04,2026-11-04
+12,External Hard Drive,8,Portable external hard drive with large storage capacity,120,100,8,2 years,0.3,5x3x0.5,2023-12-08,2026-12-08
+13,Router,9,Dual-band wireless router for high-speed internet,80,120,9,1 year,0.5,8x6x1,2024-01-15,2026-01-15
+14,Smart Speaker,4,Voice-controlled smart speaker,80,150,4,1 year,1.0,5x5x5,2024-02-20,2026-02-20
+15,Gaming Console,10,Powerful gaming console with 4K capabilities,400,70,10,2 years,3.0,12x9x3,2024-03-12,2027-03-12
+16,Power Bank,11,High-capacity portable power bank,50,300,11,1 year,0.3,4x2x1,2024-04-05,2026-04-05
+17,Fitness Tracker,12,Waterproof fitness tracker with heart rate monitoring,100,200,12,1 year,0.1,2x2x0.3,2024-05-18,2026-05-18
+18,External SSD,8,Lightning-fast external SSD drive,200,80,8,3 years,0.2,4x2x0.5,2024-06-22,2027-06-22
+19,Electric Toothbrush,13,Electric toothbrush with multiple cleaning modes,80,100,13,2 years,0.5,1x1x8,2024-07-30,2026-07-30
+20,Smart Thermostat,14,Smart thermostat for energy-efficient home heating/cooling,150,50,14,1 year,0.3,3x3x1,2024-08-14,2026-08-14
+21,Wireless Earbuds,3,True wireless earbuds with long battery life,150,150,3,1 year,0.05,3x2x1,2024-09-05,2026-09-05
+22,Electric Shaver,15,Electric shaver for smooth shaving experience,100,120,15,2 years,0.2,2x2x6,2024-10-18,2026-10-18
+23,Bluetooth Tracker,16,Bluetooth tracker to find lost items,30,300,16,1 year,0.02,1x1x0.3,2024-11-22,2026-11-22
+24,Portable Speaker,4,Compact portable speaker with good sound quality,50,250,4,1 year,0.8,4x4x3,2024-12-10,2026-12-10
+25,Smart Doorbell,17,Smart doorbell with camera and motion detection,200,80,17,2 years,0.5,5x3x1,2025-01-15,2027-01-15
+26,Air Purifier,18,Hepa-filter air purifier for clean indoor air,300,60,18,3 years,5.0,10x10x20,2025-02-20,2028-02-20
+27,Robot Vacuum Cleaner,19,Smart robot vacuum cleaner for automated cleaning,400,40,19,2 years,4.0,14x14x3,2025-03-18,2027-03-18
+28,Smart Scale,20,Digital smart scale for accurate weight measurement,80,100,20,1 year,1.0,12x12x1,2025-04-12,2027-04-12
+29,LED Desk Lamp,21,Adjustable LED desk lamp with dimming features,50,150,21,1 year,0.5,5x5x20,2025-05-25,2027-05-25
+30,Wireless Charger,22,Wireless charger for smartphones and other devices,30,200,22,1 year,0.1,4x4x0.3,2025-06-18,2027-06-18
+31,Projector,23,Full HD projector for home entertainment,500,30,23,2 years,3.0,12x9x5,2025-07-22,2027-07-22
+32,VR Headset,24,Virtual reality headset for immersive gaming experience,300,50,24,1 year,0.6,8x6x6,2025-08-30,2027-08-30
+33,Smart Lock,25,Keyless smart lock for secure home access,250,70,25,2 years,1.0,4x4x3,2025-09-14,2027-09-14
+34,Gaming Chair,26,Ergonomic gaming chair for comfort during long gaming sessions,200,100,26,1 year,20.0,30x30x40,2025-10-25,2027-10-25
+35,Standing Desk,27,Height-adjustable standing desk for ergonomic work setup,400,50,27,3 years,30.0,48x24x2,2025-11-04,2028-11-04
+36,Bluetooth Earphones,3,Bluetooth earphones with neckband design,80,120,3,1 year,0.1,3x2x1,2025-12-08,2027-12-08
+37,Electric Kettle,28,Electric kettle for quick boiling water,40,200,28,2 years,1.0,6x6x8,2026-01-15,2028-01-15
+38,Coffee Maker,29,Programmable coffee maker for brewing coffee,100,100,29,2 years,5.0,10x10x12,2026-02-20,2028-02-20
+39,Rice Cooker,30,Multi-functional rice cooker with steaming function,60,150,30,1 year,3.0,10x10x8,2026-03-10,2028-03-10
+40,Blender,31,High-speed blender for smoothies and shakes,70,80,31,2 years,2.0,8x8x10,2026-04-05,2028-04-05
+41,Toaster,32,Stainless steel toaster with multiple browning settings,30,180,32,1 year,2.0,8x6x4,2026-05-12,2028-05-12
+42,Food Processor,33,Powerful food processor for chopping and slicing,120,70,33,3 years,4.0,10x8x12,2026-06-18,2029-06-18
+43,Vacuum Sealer,34,Vacuum sealer for food preservation,80,90,34,2 years,2.5,14x6x4,2026-07-22,2028-07-22
+44,Juicer,35,Electric juicer for extracting fresh juice,50,120,35,1 year,3.0,8x8x14,2026-08-30,2028-08-30
+45,Hair Dryer,36,Professional hair dryer with multiple heat settings,60,100,36,2 years,0.8,10x8x4,2026-09-14,2028-09-14
+46,Air Fryer,37,Healthier cooking with less oil using air fryer technology,100,80,37,2 years,4.0,12x10x6,2026-10-18,2028-10-18
+47,Water Purifier,38,RO water purifier for clean drinking water,200,60,38,3 years,15.0,18x18x20,2026-11-22,2029-11-22
+48,Electric Fan,39,Energy-efficient electric fan for cooling,40,200,39,1 year,2.0,12x12x6,2026-12-10,2028-12-10
+49,Humidifier,40,Ultrasonic humidifier for adding moisture to the air,50,150,40,2 years,1.5,8x8x10,2027-01-15,2029-01-15
+50,Electric Blanket,41,Electric blanket with multiple heat settings,80,100,41,2 years,2.0,60x80x0.5,2027-02-20,2029-02-20
